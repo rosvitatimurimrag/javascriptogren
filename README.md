@@ -1,2 +1,1 @@
-# javascriptogren
 Javascript Öğren!
